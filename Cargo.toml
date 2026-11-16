@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-remote-software-deployment"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS remote-software-deployment component - cloud"
+
+[lib]
+name = "remote_software_deployment"
+path = "src/lib.rs"
