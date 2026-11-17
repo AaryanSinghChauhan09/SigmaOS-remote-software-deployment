@@ -3,7 +3,7 @@ name = "SigmaOS-remote-software-deployment"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "remote-software-deployment component"
+description = "Remote Software Deployment"
 upstream = []
 
 [contract]
